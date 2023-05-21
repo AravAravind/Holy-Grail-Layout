@@ -1,4 +1,4 @@
-# Holy Grail Layout Server
+# Holy Grail Layout
 
 This repository contains a Node.js Express server that implements the Holy Grail Layout and utilizes Redis as a database.
 
