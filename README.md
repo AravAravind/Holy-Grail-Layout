@@ -17,7 +17,7 @@ Before running this server, ensure that you have the following prerequisites ins
 
 Clone the repository:
 
-git clone https://github.com/your-username/holy-grail-layout-server.git
+git clone https://github.com/AravAravind/Holy-Grail-Layout.git
 
 Install the dependencies:
 
